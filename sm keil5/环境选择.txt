@@ -1,0 +1,9 @@
+运行环境选择：
+CMSIS：：CORE
+Device：：GPIO
+Device：：Startup
+Device：：stdPeriph Drivers：：Flash
+Device：：stdPeriph Drivers：：Framework
+Device：：stdPeriph Drivers：：GPIO
+Device：：stdPeriph Drivers：：RCC
+Device：：stdPeriph Drivers：：EXTI
